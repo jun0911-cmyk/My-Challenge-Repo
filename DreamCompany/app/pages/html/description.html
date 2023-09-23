@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DreamCompany</title>
+    <link rel="stylesheet" href="./description.css" />
+  </head>
+  <body>
+    <nav class="nav-container">
+      <li class="nav-item"><a href="/user/account">LOGIN&SIGNUP</a></li>
+      <li class="nav-item"><a href="/admin">ADMIN</a></li>
+      <li class="nav-item"><a href="/vuln/report">REPORT</a></li>
+      <li class="nav-item"><a href="/manage">MANAGER</a></li>
+      <li class="nav-item"><a href="/description">DESCRIPTION</a></li>
+    </nav>
+    <div class="description">
+      <h1>DreamCompany testing rules</h1>
+      <h2>When search vuln</h2>
+      <p>1. If you find vuln, report to /vuln/report page</p>
+      <p>
+        2. If report success, I will test to this payload, than if payload is
+        can't access super_admin page, this vuln unrecognized.
+      </p>
+      <p>3. Not brute force attack and no fuzzing</p>
+      <h2>When report page</h2>
+      <p>1. Please not attack report page</p>
+      <p>2. this website not using sql, than you can't sql injection</p>
+      <h2>Payload</h2>
+      <p>
+        1. I will test payload to GET method, Be sure to create a url that
+        allows super_admin access in the payload.
+      </p>
+      <p>2. If can access super_admin page, I will give FLAG to you</p>
+      <h2>ETC</h2>
+      <p>
+        1. If you have any questions about DreamCompany or have any issues with
+        the report page, please contact us at Dreamhack Q&A page or
+        jun0911.dev#5823 on Discord.
+      </p>
+      <h2>Good luck!</h2>
+    </div>
+  </body>
+</html>

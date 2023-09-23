@@ -1,0 +1,8 @@
+FROM node:9-slim
+RUN apt update
+COPY . /problem
+WORKDIR /problem
+RUN cd /server
+RUN npm install
+EXPOSE 8000
+CMD ["node", "server/server.js"]
