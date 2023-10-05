@@ -1,19 +1,25 @@
 # MY WARGAME LIST
 
-this repo contains a list of my made wargames
+this repo contains a list of my made wargames! :)
 
-# Wargames
+## CTF
 
-- Wargame (WEB) (Dreamhack)
+|CTF Name|Challange Name|Category|Difficulty|Keywords|Writeup|
+|------|---|---|---|---|---|
+|Hidden|Hidden|WEB|Hidden|Hidden|Hidden|
+
+### CTF Name
+
+1. not yet.
+
+## Wargames
+
+|Challanage Name|Category|Difficulty|Keywords|Writeup|
+|------|---|---|---|---|
+|FUN-SQL-INJECTION V.01|WEB|Easy|SQLI|Hidden|
+|DreamCompany-V01|WEB|Easy|Logcal Bug, Bruteforce|Hidden|
+
+### Platform : Dreamhack (https://dreamhack.io/)
 
 1. FUN-SQL-INJECTION V.01 - [Production] [Dreamhack]
-2. DreamCompany - [Production] [Dreamhack]
-
-- Wargame (PWN)
-  not yet.
-
-- Wargame (REV)
-  not yet.
-
-- CTF
-  not yet.
+2. DreamCompany-V01 - [Production] [Dreamhack]
