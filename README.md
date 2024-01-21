@@ -6,11 +6,11 @@ this repo contains a list of my made wargames! :)
 
 |CTF Name|Challange Name|Category|Difficulty|Keywords|Writeup|
 |------|---|---|---|---|---|
-|BISC CTF|BISCC0mpany|WEB|Medium|Sequelize 1Day, XSLeak, LFI Trick, Brutefoce|Hidden|
+|BISC CTF|BISC C0mpany|WEB|Medium|Sequelize 1Day, XSLeak, LFI Trick, Brutefoce|Hidden|
 
 ### CTF Name
 
-1. not yet.
+1. BISC C0mpany - [Production] [Dreamhack]
 
 ## Wargames
 
