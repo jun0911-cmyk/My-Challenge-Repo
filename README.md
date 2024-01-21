@@ -6,7 +6,7 @@ this repo contains a list of my made wargames! :)
 
 |CTF Name|Challange Name|Category|Difficulty|Keywords|Writeup|
 |------|---|---|---|---|---|
-|Hidden|Hidden|WEB|Hidden|Hidden|Hidden|
+|BISC CTF|BISCC0mpany|WEB|Medium|SEQUELIZE 1Day,XSLeak,LFI Trick,Brutefoce|Hidden|
 
 ### CTF Name
 
